@@ -1,0 +1,30 @@
+{
+  "name": "maki-client-markdown",
+  "version": "0.1.0",
+  "description": "Adds support for markdown to the Maki browser client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/maki-client-markdown.git"
+  },
+  "keywords": [
+    "maki",
+    "plugin",
+    "markdown",
+    "framework",
+    "client",
+    "browser"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/maki-client-markdown/issues"
+  },
+  "homepage": "https://github.com/martindale/maki-client-markdown",
+  "dependencies": {
+    "marked": "^0.3.6"
+  }
+}
